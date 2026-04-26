@@ -1,5 +1,7 @@
 # Ciągle tutaj jestem – Karaoke 🎤
 
+> ⚠️ **Unofficial fan project.** Not affiliated with Bedoes 2115, Maja Mecan, Cancer Fighters Foundation, or Łatwogang. For official information visit [cancerfighters.pl](https://cancerfighters.pl).
+
 > **Bedoes 2115 × Maja Mecan × Cancer Fighters**  
 > Diss na raka / A diss track against cancer  
 > 102+ mln wyświetleń / 102M+ views · YT: [youtu.be/d-kldWAQBzk](https://www.youtube.com/watch?v=d-kldWAQBzk)
