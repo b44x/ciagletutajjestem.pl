@@ -1,0 +1,100 @@
+{
+  "lang": "en",
+  "name": "English",
+  "flag": "🇬🇧",
+  "contributor": "machine-translated – improve via PR!",
+  "blocks": [
+    {
+      "tag": "Intro",
+      "type": "intro",
+      "lines": [
+        { "t": 0.54,  "tx": "If you're fighting cancer just like me, this song is for you" },
+        { "t": 6.12,  "tx": "I'm Maja and this is my third relapse, and I have every reason to diss you" },
+        { "t": 11.22, "tx": "So what do you say, Maja? Let's go at him! Let's go!" },
+        { "t": 13.98, "tx": "Hahaha, let's go then!" }
+      ]
+    },
+    {
+      "tag": "Verse 1 – Maja Mecan",
+      "type": "verse",
+      "lines": [
+        { "t": 18.67, "tx": "I've beaten you once before, I remember it like yesterday" },
+        { "t": 21.44, "tx": "I thought it was over, that you wouldn't come back here, so" },
+        { "t": 24.06, "tx": "I tasted victory, my eyes shone with the whole world" },
+        { "t": 26.75, "tx": "And you came back again and said: once more!" },
+        { "t": 29.84, "tx": "Third round of the fight, you put me back at the start" },
+        { "t": 32.40, "tx": "But you forgot that I won't give up just like that" },
+        { "t": 35.26, "tx": "Though this road is hard and sometimes I feel weak" },
+        { "t": 37.81, "tx": "I often see my mom wiping away her tears, I love you" }
+      ]
+    },
+    {
+      "tag": "Chorus",
+      "type": "chorus",
+      "lines": [
+        { "t": 40.67, "tx": "Still here, thought you had me?" },
+        { "t": 46.23, "tx": "Still here, we're laughing in your face" },
+        { "t": 51.58, "tx": "Still here and I'm not going anywhere" },
+        { "t": 57.01, "tx": "Still here! Maja, give it to this loser!" }
+      ]
+    },
+    {
+      "tag": "Verse 2 – Maja Mecan",
+      "type": "verse",
+      "lines": [
+        { "t": 62.34, "tx": "This is your last step, I'll prove it to you" },
+        { "t": 65.12, "tx": "Listen up, cancer, because your days are numbered" },
+        { "t": 67.81, "tx": "You attack children – that is a true disgrace" },
+        { "t": 70.66, "tx": "You steal our dreams and our childhood fantasies" },
+        { "t": 73.36, "tx": "Every time I fall, it teaches me to move forward" },
+        { "t": 76.15, "tx": "The scars on my body are badges of many roads" },
+        { "t": 78.71, "tx": "Did you think you'd break me, that you'd take away my days?" },
+        { "t": 81.37, "tx": "Unfortunately you were wrong – get out, I'll close the door!" }
+      ]
+    },
+    {
+      "tag": "Chorus",
+      "type": "chorus",
+      "lines": [
+        { "t": 84.22, "tx": "Still here, thought you had me?" },
+        { "t": 89.59, "tx": "Still here, we're laughing in your face" },
+        { "t": 95.03, "tx": "Still here and I'm not going anywhere" },
+        { "t": 100.52, "tx": "Still here! Maja, give it to this loser!" }
+      ]
+    },
+    {
+      "tag": "Verse 3 – Bedoes 2115",
+      "type": "bridge",
+      "lines": [
+        { "t": 106.07, "tx": "You latched onto little Maja? Feeding off other people's dreams?" },
+        { "t": 108.79, "tx": "Pardon my language, but I think it's been ages since anyone—, Bedi!" },
+        { "t": 111.70, "tx": "We'll go for mani-pedi with Maja, our fans right beside us, when we're always dancing and always laughing" },
+        { "t": 115.31, "tx": "Right after we absolutely—, Bedi, come on!" },
+        { "t": 117.72, "tx": "You took my dad, then you took my grandpa" },
+        { "t": 120.52, "tx": "You wanted to take my mom, but she wouldn't let you, crazy thing" },
+        { "t": 122.90, "tx": "Leszek writes this verse for me, Sara throws me the words" },
+        { "t": 125.39, "tx": "Because even when you win, heaven gains an angel" }
+      ]
+    },
+    {
+      "tag": "Outro",
+      "type": "outro",
+      "lines": [
+        { "t": 128.66, "tx": "This is for everyone on the wards, where everyone fights" },
+        { "t": 131.56, "tx": "Like soldiers from the special forces" },
+        { "t": 133.85, "tx": "Nurses, doctors – men and women – and parents:" },
+        { "t": 137.81, "tx": "We won't lose this fight, Maja!" }
+      ]
+    },
+    {
+      "tag": "Final",
+      "type": "chorus",
+      "lines": [
+        { "t": 139.47, "tx": "Still here" },
+        { "t": 144.81, "tx": "Still here" },
+        { "t": 150.42, "tx": "Still here" },
+        { "t": 156.04, "tx": "Still here" }
+      ]
+    }
+  ]
+}

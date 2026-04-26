@@ -1,0 +1,108 @@
+{
+  "lang": "XX",
+  "name": "Your Language Name",
+  "flag": "🏳️",
+  "contributor": "@your-github-username",
+  "blocks": [
+    {
+      "tag": "Intro / Opening",
+      "type": "intro",
+      "lines": [
+        { "t": 0,  "tx": "TRANSLATE: If you're fighting cancer just like me," },
+        { "t": 3,  "tx": "TRANSLATE: this song is for you." },
+        { "t": 6,  "tx": "TRANSLATE: I'm Maja and this is my third relapse" },
+        { "t": 9,  "tx": "TRANSLATE: and I have every reason to diss you." },
+        { "t": 12, "tx": "TRANSLATE: So what do you say, Maja? Let's go at him!" },
+        { "t": 15, "tx": "TRANSLATE: Let's go, then let's go!" }
+      ]
+    },
+    {
+      "tag": "Verse 1 – Maja Mecan",
+      "type": "verse",
+      "lines": [
+        { "t": 18, "tx": "TRANSLATE: I've beaten you once before, I remember it like yesterday." },
+        { "t": 21, "tx": "TRANSLATE: I thought it was over, that you wouldn't come back here," },
+        { "t": 23, "tx": "TRANSLATE: so I tasted victory." },
+        { "t": 25, "tx": "TRANSLATE: My eyes shone with the whole world," },
+        { "t": 27, "tx": "TRANSLATE: and you came back again and said: once more." },
+        { "t": 29, "tx": "TRANSLATE: Third round of the fight, you put me back at the start." },
+        { "t": 31, "tx": "TRANSLATE: But you forgot that I won't give up just like that." },
+        { "t": 34, "tx": "TRANSLATE: Though this road is hard and sometimes I feel weak." },
+        { "t": 37, "tx": "TRANSLATE: I often see my mom wiping away her tears." },
+        { "t": 39, "tx": "TRANSLATE: I love you!" }
+      ]
+    },
+    {
+      "tag": "Chorus",
+      "type": "chorus",
+      "lines": [
+        { "t": 41, "tx": "TRANSLATE: Still here! Thought you had me?" },
+        { "t": 46, "tx": "TRANSLATE: Still here! We're laughing in your face." },
+        { "t": 50, "tx": "TRANSLATE: Still here and I'm not going anywhere." },
+        { "t": 55, "tx": "TRANSLATE: Still here! Maja, give it to this monster!" }
+      ]
+    },
+    {
+      "tag": "Verse 2 – Maja Mecan",
+      "type": "verse",
+      "lines": [
+        { "t": 62, "tx": "TRANSLATE: This is your last step, I'll prove it to you," },
+        { "t": 64, "tx": "TRANSLATE: listen up, cancer, because your days are numbered." },
+        { "t": 66, "tx": "TRANSLATE: You attack children – that is a true disgrace." },
+        { "t": 69, "tx": "TRANSLATE: You steal our dreams and our childhood fantasies." },
+        { "t": 72, "tx": "TRANSLATE: Every time I fall, it teaches me to move forward." },
+        { "t": 75, "tx": "TRANSLATE: The scars on my body are badges of many roads." },
+        { "t": 78, "tx": "TRANSLATE: Did you think you'd break me, that you'd take away my days?" },
+        { "t": 81, "tx": "TRANSLATE: Unfortunately you were wrong – get out, I'll close the door!" }
+      ]
+    },
+    {
+      "tag": "Chorus",
+      "type": "chorus",
+      "lines": [
+        { "t": 85, "tx": "TRANSLATE: Still here! Thought you had me?" },
+        { "t": 90, "tx": "TRANSLATE: Still here! We're laughing in your face." },
+        { "t": 94, "tx": "TRANSLATE: Still here and I'm not going anywhere." },
+        { "t": 99, "tx": "TRANSLATE: Still here! Maja, give it to this monster!" }
+      ]
+    },
+    {
+      "tag": "Verse 3 – Bedoes 2115",
+      "type": "bridge",
+      "lines": [
+        { "t": 106, "tx": "TRANSLATE: You latched onto little Maja," },
+        { "t": 108, "tx": "TRANSLATE: feeding off other people's dreams." },
+        { "t": 110, "tx": "TRANSLATE: Pardon my language," },
+        { "t": 112, "tx": "TRANSLATE: but I think it's been a while since anyone put you in your place." },
+        { "t": 114, "tx": "TRANSLATE: We'll go for mani-pedi with Maja," },
+        { "t": 116, "tx": "TRANSLATE: our fans will be right there with us when" },
+        { "t": 118, "tx": "TRANSLATE: we're always dancing and always laughing," },
+        { "t": 120, "tx": "TRANSLATE: right after we absolutely destroy you." },
+        { "t": 124, "tx": "TRANSLATE: You took my dad, then you took my grandpa," },
+        { "t": 127, "tx": "TRANSLATE: you wanted to take my mom, but she wouldn't let you!" },
+        { "t": 131, "tx": "TRANSLATE: This verse writes me a better tomorrow," },
+        { "t": 134, "tx": "TRANSLATE: because even when you win, heaven gains an angel." }
+      ]
+    },
+    {
+      "tag": "Outro",
+      "type": "outro",
+      "lines": [
+        { "t": 138, "tx": "TRANSLATE: This is for everyone on the wards, where everyone fights" },
+        { "t": 141, "tx": "TRANSLATE: like soldiers from the special forces." },
+        { "t": 144, "tx": "TRANSLATE: Nurses, doctors – men and women – and parents:" },
+        { "t": 147, "tx": "TRANSLATE: we won't lose this fight! Maja!" }
+      ]
+    },
+    {
+      "tag": "Final",
+      "type": "chorus",
+      "lines": [
+        { "t": 142, "tx": "TRANSLATE: Still here!" },
+        { "t": 146, "tx": "TRANSLATE: Still here!" },
+        { "t": 150, "tx": "TRANSLATE: Still here!" },
+        { "t": 155, "tx": "TRANSLATE: Still here!" }
+      ]
+    }
+  ]
+}

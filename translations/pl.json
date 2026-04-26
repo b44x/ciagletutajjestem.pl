@@ -1,0 +1,100 @@
+{
+  "lang": "pl",
+  "name": "Polski",
+  "flag": "🇵🇱",
+  "contributor": "original (z pliku .lrc)",
+  "blocks": [
+    {
+      "tag": "Wstęp",
+      "type": "intro",
+      "lines": [
+        { "t": 0.54,  "tx": "Jeśli tak samo chorujesz na raka jak ja, ten utwór jest dla Ciebie" },
+        { "t": 6.12,  "tx": "Jestem Maja i jest to moja trzecia wznowa, i mam powody, żeby Ciebie dissować" },
+        { "t": 11.22, "tx": "No to co, Maja, jedziemy z nim? Jedziemy!" },
+        { "t": 13.98, "tx": "Hahaha, to jedziemy" }
+      ]
+    },
+    {
+      "tag": "Zwrotka 1 – Maja Mecan",
+      "type": "verse",
+      "lines": [
+        { "t": 18.67, "tx": "Już raz wygrałam z Tobą, pamiętam to jak dziś" },
+        { "t": 21.44, "tx": "Myślałam, że to koniec, że nie wrócisz tutaj, więc" },
+        { "t": 24.06, "tx": "Poczułam smak zwycięstwa, w oczach świecił mi się świat" },
+        { "t": 26.75, "tx": "A Ty wróciłeś znowu, powiedziałeś: Jeszcze raz!" },
+        { "t": 29.84, "tx": "Trzecia runda walki, znowu stawiasz mnie na start" },
+        { "t": 32.40, "tx": "Ale zapomniałeś o tym, że nie poddam się ot tak" },
+        { "t": 35.26, "tx": "Choć ta droga trudna i czasem brak mi sił" },
+        { "t": 37.81, "tx": "Często widzę mamę, jak ociera łzy, kocham Cię" }
+      ]
+    },
+    {
+      "tag": "Refren",
+      "type": "chorus",
+      "lines": [
+        { "t": 40.67, "tx": "Ciągle tutaj jestem, myślałeś, że mnie masz?" },
+        { "t": 46.23, "tx": "Ciągle tutaj jestem, śmiejemy Ci się w twarz" },
+        { "t": 51.58, "tx": "Ciągle tutaj jestem i się nigdzie nie wybieram" },
+        { "t": 57.01, "tx": "Ciągle tutaj jestem, Maja, dawaj tego pozera" }
+      ]
+    },
+    {
+      "tag": "Zwrotka 2 – Maja Mecan",
+      "type": "verse",
+      "lines": [
+        { "t": 62.34, "tx": "To Twój ostatni krok, udowodnię Ci" },
+        { "t": 65.12, "tx": "Słuchaj, raku, dobrze, bo kończą Ci się dni" },
+        { "t": 67.81, "tx": "Atakujesz dzieci, to naprawdę wielki wstyd" },
+        { "t": 70.66, "tx": "Kradniesz nam marzenia i dziecięce sny" },
+        { "t": 73.36, "tx": "Każdy mój upadek uczy, jak iść dalej w przód" },
+        { "t": 76.15, "tx": "Blizny na mym ciele to odznaki wielu dróg" },
+        { "t": 78.71, "tx": "Myślałeś, że mnie złamiesz, że zabierzesz dni?" },
+        { "t": 81.37, "tx": "Niestety się myliłeś, wyjdź, ja zamknę drzwi" }
+      ]
+    },
+    {
+      "tag": "Refren",
+      "type": "chorus",
+      "lines": [
+        { "t": 84.22, "tx": "Ciągle tutaj jestem, myślałeś, że mnie masz?" },
+        { "t": 89.59, "tx": "Ciągle tutaj jestem, śmiejemy Ci się w twarz" },
+        { "t": 95.03, "tx": "Ciągle tutaj jestem i się nigdzie nie wybieram" },
+        { "t": 100.52, "tx": "Ciągle tutaj jestem, Maja, dawaj tego pozera" }
+      ]
+    },
+    {
+      "tag": "Zwrotka 3 – Bedoes 2115",
+      "type": "bridge",
+      "lines": [
+        { "t": 106.07, "tx": "Przyczepiłeś się do małej Mai? Żywisz się cudzymi marzeniami?" },
+        { "t": 108.79, "tx": "Przepraszam bardzo za język, ale chyba bardzo dawno Ci nie naje—, Bedi!" },
+        { "t": 111.70, "tx": "Z Mają pójdziemy na Manipedi z nami sami nasi fani, kiedy ciągle tańczymy i ciągle się śmiejemy" },
+        { "t": 115.31, "tx": "Zaraz po tym, jak Ci, głupku, zaje—, Bedi, no!" },
+        { "t": 117.72, "tx": "Zabrałeś mi tatę, potem zabrałeś mi dziadka" },
+        { "t": 120.52, "tx": "Chciałeś zabrać mamę, ale nie da się, wariatka" },
+        { "t": 122.90, "tx": "Ten tekst pisze mi Leszek, a Sara podrzuca słowa" },
+        { "t": 125.39, "tx": "No bo nawet jak wygrywasz, niebo zyskuje anioła" }
+      ]
+    },
+    {
+      "tag": "Outro",
+      "type": "outro",
+      "lines": [
+        { "t": 128.66, "tx": "To dla wszystkich z oddziałów, gdzie każdy walczy" },
+        { "t": 131.56, "tx": "Niczym żołnierze z oddziałów specjalnych" },
+        { "t": 133.85, "tx": "Pielęgniarki, pielęgniarze, lekarze, lekarki i rodzice" },
+        { "t": 137.81, "tx": "Nie przegramy tej walki, Maja" }
+      ]
+    },
+    {
+      "tag": "Finał",
+      "type": "chorus",
+      "lines": [
+        { "t": 139.47, "tx": "Ciągle tutaj jestem" },
+        { "t": 144.81, "tx": "Ciągle tutaj jestem" },
+        { "t": 150.42, "tx": "Ciągle tutaj jestem" },
+        { "t": 156.04, "tx": "Ciągle tutaj jestem" }
+      ]
+    }
+  ]
+}
